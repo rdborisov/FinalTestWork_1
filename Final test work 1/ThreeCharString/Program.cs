@@ -9,7 +9,7 @@
 ["Russia", "Denmark", "Kazan"] -> []
 */
 
-namespace FinalTestWork
+namespace FinalTestWork1
 {
     class TestWork1
     {
